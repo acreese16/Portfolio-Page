@@ -1,0 +1,41 @@
+img {
+  max-width: 50%;
+  height: auto;
+  padding: 30px 20px 30px 20px;
+  margin: 10px 7px 5px 300px;
+  border-radius: 65px;
+}
+
+
+
+body {
+  background-color: #F0EAD6;  
+}
+
+header, footer {
+  background-color: #C1666B;
+  font-family: 'Lucida Bright', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.border-box {
+  box-sizing: border-box;
+}
+
+.center-text {
+  text-align: center;
+}
+
+a:link { 
+  color: blueviolet;
+}
+
+a:visited {
+  color: greenyellow;
+}
+a:hover {
+  color: gray;
+}
+
+a:active {
+  color: blueviolet;
+}
